@@ -1,0 +1,6 @@
+RewriteEngine On
+
+
+
+RewriteRule ^(.*) http://your-site.example.com/index.php?page=instructor&name=$1
+
