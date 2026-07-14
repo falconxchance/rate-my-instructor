@@ -2,6 +2,14 @@
 
 A PHP web app that lets students browse, search, and rate their instructors — think RateMyProfessors, self-hosted. Originally built in 2016–2017 as an add-on for an SMF (Simple Machines Forum) community site, since genericized here as a standalone script.
 
+## Screenshots
+
+| | |
+|---|---|
+| ![Instructor list](screenshots/instructor-list.png) | ![Instructor profile with rating breakdown](screenshots/instructor-profile.png) |
+| ![Difficulty rating and attendance/textbook stats](screenshots/difficulty-rating.png) | ![Discussions board](screenshots/discussions-board.png) |
+| ![Semester countdown](screenshots/semester-countdown.png) | |
+
 ## Features
 
 - Browse/search instructors by name, department, or college
